@@ -49,9 +49,9 @@ For further details, refer to the
 
 ### Loading, Parsing, and Cleaning HTML Files
 
-- [ ] Use BeautifulSoup to extract main text from `.html` files
-- [ ] Utilize Docling for advanced document parsing
-- [ ] Implement a hybrid approach (BeautifulSoup + Docling) for comparison
+- [x] Use BeautifulSoup to extract main text from `.html` files
+- [x] Utilize Docling for advanced document parsing
+- [x] Implement a hybrid approach (BeautifulSoup + Docling) for comparison
 
 ### Multilingual Text Preprocessing and Cleaning
 
@@ -60,6 +60,8 @@ For further details, refer to the
 - [ ] Standardize date formats from different sources
 - [ ] Handle German-specific text processing (e.g., compound words, umlaut
       normalization)
+- [x] Adds fields such as language, title, date, source
+- [ ] Adds main content, named entities, topics, keywords, summary
 - [ ] Store cleaned text and metadata in a structured format (JSON, CSV, or
       database)
 - [ ] Create additional metadata to support semantic search and context
