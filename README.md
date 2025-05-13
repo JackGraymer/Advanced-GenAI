@@ -57,20 +57,21 @@ For further details, refer to the
 
 - [x] Remove extra spaces, redundant line breaks, and normalize Unicode
       characters
-- [ ] Standardize date formats from different sources (Alvaro)
-- [ ] Handle German-specific text processing (e.g., compound words, umlaut
+- [x] Standardize date formats from different sources (Alvaro)
+- [x] Handle German-specific text processing (e.g., compound words, umlaut
       normalization) (Pascal)
 - [x] Adds fields such as language, title, date, source
-- [ ] Adds main content, named entities, topics, keywords, summary (Sev/Alvaro)
+- [x] Adds main content, named entities, topics, keywords, summary (Sev/Alvaro)
+- [ ] Compare both summaries and choose the best one (Sev/Alvaro)
 - [ ] Store cleaned text and metadata in a structured format (JSON, CSV, or
-      database)
-- [ ] Create additional metadata to support semantic search and context
+      database) Explore which format is best for the project
+- [x] Create additional metadata to support semantic search and context
       filtering
 
 ### Deliverables
 
 - [ ] Write a brief report comparing BeautifulSoup and Docling in a Python
-      notebook
+      notebook (Pascal)
 - [ ] Submit a structured multilingual dataset with enriched metadata
 
 ## Phase 2.1: Research Agents - Retrieval Strategies (30 points)
