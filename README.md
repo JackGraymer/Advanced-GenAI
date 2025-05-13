@@ -55,13 +55,13 @@ For further details, refer to the
 
 ### Multilingual Text Preprocessing and Cleaning
 
-- [ ] Remove extra spaces, redundant line breaks, and normalize Unicode
+- [x] Remove extra spaces, redundant line breaks, and normalize Unicode
       characters
-- [ ] Standardize date formats from different sources
+- [ ] Standardize date formats from different sources (Alvaro)
 - [ ] Handle German-specific text processing (e.g., compound words, umlaut
-      normalization)
+      normalization) (Pascal)
 - [x] Adds fields such as language, title, date, source
-- [ ] Adds main content, named entities, topics, keywords, summary
+- [ ] Adds main content, named entities, topics, keywords, summary (Sev/Alvaro)
 - [ ] Store cleaned text and metadata in a structured format (JSON, CSV, or
       database)
 - [ ] Create additional metadata to support semantic search and context
