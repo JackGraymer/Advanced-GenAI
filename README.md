@@ -57,31 +57,31 @@ For further details, refer to the
 
 - [x] Remove extra spaces, redundant line breaks, and normalize Unicode
       characters
-- [x] Standardize date formats from different sources (Alvaro)
+- [x] Standardize date formats from different sources
 - [x] Handle German-specific text processing (e.g., compound words, umlaut
-      normalization) (Pascal)
+      normalization)
 - [x] Adds fields such as language, title, date, source
-- [x] Adds main content, named entities, topics, keywords, summary (Sev/Alvaro)
-- [ ] Compare both summaries and choose the best one (Sev/Alvaro)
-- [ ] Store cleaned text and metadata in a structured format (JSON, CSV, or
+- [x] Adds main content, named entities, topics, keywords, summary
+- [x] Compare both summaries and choose the best one
+- [x] Store cleaned text and metadata in a structured format (JSON, CSV, or
       database) Explore which format is best for the project
 - [x] Create additional metadata to support semantic search and context
       filtering
 
 ### Deliverables
 
-- [ ] Write a brief report comparing BeautifulSoup and Docling in a Python
-      notebook (Pascal)
-- [ ] Submit a structured multilingual dataset with enriched metadata
+- [x] Write a brief report comparing BeautifulSoup and Docling in a Python
+      notebook
+- [x] Submit a structured multilingual dataset with enriched metadata
 
 ## Phase 2.1: Research Agents - Retrieval Strategies (30 points)
 
 ### Data Preprocessing and Benchmark Construction
 
 - [ ] Chunk news text data using fixed-size segmentation or semantic
-      segmentation
-- [ ] Use GPT-4o to verify paragraph relevance to a given question
-- [ ] Assign ground-truth relevance labels (1.0, 0.5, 0.0) for evaluation
+      segmentation (Pascal)
+- [ ] Use GPT-4o to verify paragraph relevance to a given question (Pascal)
+- [ ] Assign ground-truth relevance labels (1.0, 0.5, 0.0) for evaluation (Pascal)
 
 ### Implement Retrieval Strategies
 
