@@ -78,8 +78,8 @@ For further details, refer to the
 
 ### Data Preprocessing and Benchmark Construction
 
-- [ ] Chunk news text data using fixed-size segmentation or semantic
-      segmentation (Pascal)
+- [x] Chunk news text data using fixed-size segmentation or semantic
+      segmentation
 - [ ] Use GPT-4o to verify paragraph relevance to a given question (Pascal)
 - [ ] Assign ground-truth relevance labels (1.0, 0.5, 0.0) for evaluation (Pascal)
 
