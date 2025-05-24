@@ -81,12 +81,14 @@ For further details, refer to the
 - [x] Chunk news text data using fixed-size segmentation or semantic
       segmentation
 - [ ] Use GPT-4o to verify paragraph relevance to a given question (Pascal)
-- [ ] Assign ground-truth relevance labels (1.0, 0.5, 0.0) for evaluation (Pascal)
+- [ ] Assign ground-truth relevance labels (1.0, 0.5, 0.0) for evaluation
+      (Pascal)
 
 ### Implement Retrieval Strategies
 
-- [ ] Baseline: BM25 Keyword-Based Retrieval
-- [ ] Semantic Search: Dense Vector Retrieval (using mBERT, Sentence-BERT, etc.)
+- [x] Baseline: BM25 Keyword-Based Retrieval
+- [x] Semantic Search: Dense Vector Retrieval (using mBERT, Sentence-BERT, etc.)
+      -> Sentence-BERT
 - [ ] GraphRAG-Based Retrieval (Microsoft Local-to-Global GraphRAG)
 - [ ] Hybrid Retrieval (BM25 + Dense + GraphRAG)
 
