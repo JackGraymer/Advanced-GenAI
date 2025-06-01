@@ -89,7 +89,7 @@ For further details, refer to the
 - [x] Baseline: BM25 Keyword-Based Retrieval
 - [x] Semantic Search: Dense Vector Retrieval (using mBERT, Sentence-BERT, etc.)
       -> Sentence-BERT
-- [ ] GraphRAG-Based Retrieval (Microsoft Local-to-Global GraphRAG)
+- [x] GraphRAG-Based Retrieval (Microsoft Local-to-Global GraphRAG)
 - [ ] Hybrid Retrieval (BM25 + Dense + GraphRAG)
 
 ### Evaluate Retrieval Performance
