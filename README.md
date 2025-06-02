@@ -90,11 +90,11 @@ For further details, refer to the
 - [x] Semantic Search: Dense Vector Retrieval (using mBERT, Sentence-BERT, etc.)
       -> Sentence-BERT
 - [x] GraphRAG-Based Retrieval (Microsoft Local-to-Global GraphRAG)
-- [ ] Hybrid Retrieval (BM25 + Dense + GraphRAG)
+- [x] Hybrid Retrieval (BM25 + Dense + GraphRAG)
 
 ### Evaluate Retrieval Performance
 
-- [ ] Analyze retrieval methods using Precision@k, Recall@k, and MRR metrics
+- [x] Analyze retrieval methods using Precision@k, Recall@k, and MRR metrics
 - [ ] Examine query routing, query rewriting, and expansion methods
 
 ### Deliverables
