@@ -100,8 +100,8 @@ For further details, refer to the
 ### Deliverables
 
 - [ ] Submit a benchmark dataset with relevance scores
-- [ ] Implement and integrate a hybrid retrieval pipeline
-- [ ] Write a comparative report on retrieval strategies and performance
+- [x] Implement and integrate a hybrid retrieval pipeline
+- [x] Write a comparative report on retrieval strategies and performance
 
 ## Phase 2.2: Aggregation & Response Synthesis (30 points)
 
