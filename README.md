@@ -80,8 +80,8 @@ For further details, refer to the
 
 - [x] Chunk news text data using fixed-size segmentation or semantic
       segmentation
-- [ ] Use GPT-4o to verify paragraph relevance to a given question (Pascal)
-- [ ] Assign ground-truth relevance labels (1.0, 0.5, 0.0) for evaluation
+- [x] Use GPT-4o to verify paragraph relevance to a given question (Pascal)
+- [x] Assign ground-truth relevance labels (1.0, 0.5, 0.0) for evaluation
       (Pascal)
 
 ### Implement Retrieval Strategies
@@ -95,7 +95,7 @@ For further details, refer to the
 ### Evaluate Retrieval Performance
 
 - [x] Analyze retrieval methods using Precision@k, Recall@k, and MRR metrics
-- [ ] Examine query routing, query rewriting, and expansion methods
+- [x] Examine query routing, query rewriting, and expansion methods
 
 ### Deliverables
 
@@ -107,16 +107,16 @@ For further details, refer to the
 
 ### Implement Re-ranking Models
 
-- [ ] Apply re-ranking techniques (EcoRank, Set-Encoder, List-Aware Reranking,
+- [x] Apply re-ranking techniques (EcoRank, Set-Encoder, List-Aware Reranking,
       etc.)
-- [ ] Compare performance with pre-built re-ranking solutions (e.g., OpenAI,
+- [x] Compare performance with pre-built re-ranking solutions (e.g., OpenAI,
       Cohere)
-- [ ] Integrate summarization and fusion techniques
+- [x] Integrate summarization and fusion techniques
 
 ### Evaluate Re-ranking Performance
 
-- [ ] Assess improvements in Precision@k, Recall@k, MRR after re-ranking
-- [ ] Evaluate computational efficiency of re-ranking models
+- [x] Assess improvements in Precision@k, Recall@k, MRR after re-ranking
+- [x] Evaluate computational efficiency of re-ranking models
 - [ ] Conduct qualitative analysis on document alignment with queries
 
 ### Deliverables
