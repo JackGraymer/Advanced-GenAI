@@ -117,13 +117,13 @@ For further details, refer to the
 
 - [x] Assess improvements in Precision@k, Recall@k, MRR after re-ranking
 - [x] Evaluate computational efficiency of re-ranking models
-- [ ] Conduct qualitative analysis on document alignment with queries
+- [x] Conduct qualitative analysis on document alignment with queries
 
 ### Deliverables
 
-- [ ] Submit an integrated re-ranking model within the RAG pipeline
-- [ ] Provide performance metrics and visualization
-- [ ] Conduct qualitative analysis on relevance ordering
+- [x] Submit an integrated re-ranking model within the RAG pipeline
+- [x] Provide performance metrics and visualization
+- [x] Conduct qualitative analysis on relevance ordering
 
 ## Phase 3: Evaluation (5 points)
 
