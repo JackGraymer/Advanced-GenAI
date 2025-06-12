@@ -129,17 +129,18 @@ For further details, refer to the
 
 ### Automated Metrics Calculation
 
-- [ ] Compute Semantic Exact Match, Semantic F1 Score, BLEU/ROUGE
-- [ ] Compare generated answers with ground truth using structured evaluation
+- [x] Compute Semantic Exact Match, Semantic F1 Score, BLEU/ROUGE
+- [x] Compare generated answers with ground truth using structured evaluation
 
 ### Human Evaluation
 
-- [ ] Rate answers based on Relevance, Correctness, and Clarity (scale 1-5)
-- [ ] Provide a written analysis summarizing human evaluation results
+- [x] Rate answers based on Relevance, Correctness, and Clarity (scale 1-5)
+- [x] Provide a written analysis summarizing human evaluation results
 
 ### Reporting and Presentation
 
-- [ ] Present results using tables and charts within a Python notebook
+- [x] Present results using tables and charts within a Python notebook
+- [ ] Compare automated metrics with human evaluation
 - [ ] Summarize system performance and identify areas for improvement
 
 ### Deliverables
