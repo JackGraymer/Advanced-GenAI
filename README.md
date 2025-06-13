@@ -140,11 +140,11 @@ For further details, refer to the
 ### Reporting and Presentation
 
 - [x] Present results using tables and charts within a Python notebook
-- [ ] Compare automated metrics with human evaluation
-- [ ] Summarize system performance and identify areas for improvement
+- [x] Compare automated metrics with human evaluation
+- [x] Summarize system performance and identify areas for improvement
 
 ### Deliverables
 
-- [ ] Submit calculated automated metrics for RAG-generated responses
-- [ ] Conduct human assessment of answer quality
-- [ ] Provide a final report on evaluation results
+- [x] Submit calculated automated metrics for RAG-generated responses
+- [x] Conduct human assessment of answer quality
+- [x] Provide a final report on evaluation results
